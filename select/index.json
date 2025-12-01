@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "拡張プレイス",
+  "base_artist": "Zwei",
+  "createdAt": "2025-12-01T10:21:08.503055Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "拡張プレイス",
+      "artist": "Zwei",
+      "has_synced": true,
+      "path": "select/01_拡張プレイス_Zwei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1 拡張プレイス",
+      "artist": "Zwei",
+      "has_synced": false,
+      "path": "select/02_1_拡張プレイス_Zwei.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "拡張プレイス",
+      "artist": "Zwei",
+      "has_synced": false,
+      "path": "select/pl_01_拡張プレイス_Zwei.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "拡張プレイス(LIVE ver.)",
+      "artist": "Zwei",
+      "has_synced": false,
+      "path": "select/pl_02_拡張プレイス(LIVE_ver.)_Zwei.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "拡張プレイス",
+      "artist": "Zwei",
+      "has_synced": false,
+      "path": "select/pl_03_拡張プレイス_Zwei.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "拡張プレイス",
+      "artist": "Zwei",
+      "has_synced": false,
+      "path": "select/pl_04_拡張プレイス_Zwei.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "拡張プレイス (off Vocal)",
+      "artist": "Zwei",
+      "has_synced": false,
+      "path": "select/pl_05_拡張プレイス_(off_Vocal)_Zwei.txt"
+    }
+  ]
+}
